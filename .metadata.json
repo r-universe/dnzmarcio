@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ewoc",
+    "oncran": true
+  },
+  {
+    "package": "visae",
+    "oncran": true
+  }
+]
