@@ -5,6 +5,3 @@
 [submodule "ewoc"]
 	path = ewoc
 	url = https://github.com/dnzmarcio/ewoc
-[submodule "visae"]
-	path = visae
-	url = https://github.com/dnzmarcio/visae
